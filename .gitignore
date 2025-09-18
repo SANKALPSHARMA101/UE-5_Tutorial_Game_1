@@ -1,0 +1,22 @@
+# Unreal Engine specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Ignore built packages
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+
+# Ignore config backups
+*.ini.tmp
